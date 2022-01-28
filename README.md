@@ -1,10 +1,10 @@
-// Copyright 2022 Dumitru Bianca Stefania - 312CA
+Copyright 2022 Dumitru Bianca Stefania - 312CA
 
 Computer Programming
 
-#Homework #3 - CLI Photo Editor
+# Homework #3 - CLI Photo Editor
 
-##General description and notes:
+## General description and notes:
 
 *) All the pixels of the image are stored as dinamically alocated matrices,
 using malloc() and free() functions from the stdlib.h library.
@@ -27,7 +27,7 @@ of the filters that can be applied.
 - SAVE <file> [ascii] - Save the selection into a plain / ascii file
 - EXIT - Free the allocated memory and exit the program
 
-##Commands:
+## Commands:
 
 1) LOAD <file>
 	- free the memory of the previously loaded image, if it exists

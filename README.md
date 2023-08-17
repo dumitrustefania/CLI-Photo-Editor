@@ -1,8 +1,4 @@
-Copyright 2022 Dumitru Bianca Stefania - 312CA
-
-Computer Programming
-
-# Homework #3 - CLI Photo Editor
+# CLI Photo Editor
 
 ## General description and notes:
 
